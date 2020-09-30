@@ -163,6 +163,30 @@
 
 }
 
+.quemsomos {
+
+    background-image: url('quemsomos.jpeg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.projetos {
+
+    background-image: url('projetos.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+.parceiros {
+
+    background-image: url('parceiros.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
 .figura {
 
     background-image: url(https://dummyimage.com/1000x600/555555/fff);

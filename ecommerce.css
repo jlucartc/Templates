@@ -131,6 +131,24 @@
 
 }
 
+.cinza-bg-5 {
+
+    background-color:#555555;
+
+}
+
+.cinza-bg-6 {
+
+    background-color:#333333;
+
+}
+
+.cinza-bg-7 {
+
+    background-color:#111111;
+
+}
+
 .cinza-fg-1 {
 
     color:#dddddd;
@@ -152,6 +170,24 @@
 .cinza-fg-4 {
 
     color:#777777;
+
+}
+
+.cinza-fg-5 {
+
+    color:#555555;
+
+}
+
+.cinza-fg-6 {
+
+    color:#333333;
+
+}
+
+.cinza-fg-7 {
+
+    color:#111111;
 
 }
 
